@@ -1,7 +1,8 @@
 👨‍💻 오건 Geon Oh
 =======
-###### UE4 Client programmer Since 2018.11.01 in Company
-###### Front End Since 2021.01.05 in GSSG project
+###### UE4 programmer Since 2018.11 ~ 2023.08 (XL Games)
+###### FrontEnd Since 2021.01.05 in GSSG project
+###### CryEngine1 Programmer (C++ based custom engine) Since 2023.08 ~ now (NC Soft)
 
 
 🎮Game
@@ -9,6 +10,7 @@
 * Client
   * Unreal Engine4
   * Unity
+  * CryEngine(1) - C++ based custom engine
 
 * Server
   * C++
